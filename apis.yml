@@ -1,7 +1,12 @@
 aid: guess
-url: https://raw.githubusercontent.com/api-evangelist/guess/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/guess/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.guess.com
+description: >-
+  Guess? is a global lifestyle brand that designs, markets, distributes, and licenses
+  a leading lifestyle collection of contemporary apparel and accessories for men,
+  women, and children.
