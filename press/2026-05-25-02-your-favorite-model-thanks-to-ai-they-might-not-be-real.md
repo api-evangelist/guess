@@ -1,7 +1,9 @@
 ---
 title: Your favorite model? Thanks to AI, they might not be real
 url: https://www.cnn.com/2025/07/31/style/vogue-ai-models-guess-campaign
-date: '2026-05-25'
+published: '2025-07-31'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Guess" press release artificial intelligence'
 position: 2
 source: serpapi-google
