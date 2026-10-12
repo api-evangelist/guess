@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/guess/integrations
+- https://n8n.io/integrations/guess/
+- https://composio.dev/toolkits/guess
+- https://monid.ai/tools/guess
+checked:
+- https://composio.dev/toolkits/guess
+- https://monid.ai/tools/guess
+- https://n8n.io/integrations/guess/
+- https://zapier.com/apps/guess/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
